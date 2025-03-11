@@ -1,4 +1,4 @@
-# diabetes_logistic_regression /# Diabetes Classification Project
+# diabetes_logistic_regression / Diabetes Classification Project
 
 ## Overview
 
